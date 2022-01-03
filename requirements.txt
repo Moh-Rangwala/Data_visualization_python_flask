@@ -1,0 +1,8 @@
+Werkzeug==1.0.1
+Flask_WTF==0.15.1
+Flask_SQLAlchemy==2.5.1
+Flask_Bootstrap==3.3.7.1
+pandas==1.2.4
+Flask==1.1.2
+pyecharts==1.9.0
+WTForms==2.3.3

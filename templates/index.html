@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+
+{% if title %}
+<h3>{{ title }}</h3>
+{% endif %}
+
+{% if message %}
+<h4>{{ message }}</h4>
+{% endif %}
+
+{{ wtf.quick_form(form) }}
+
+{% endblock %}

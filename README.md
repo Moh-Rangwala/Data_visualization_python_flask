@@ -1,1 +1,29 @@
-# Data_visualization_python_flask
+# Data Visualization using flask and pyecharts
+
+- Created a Flask application to display an Earthquake dataset.
+
+- Data is filtered and visualized using a bar, pie and scatter plot.
+
+## Tech Stack
+
+- Python
+- Flask
+- SQLAlchemy
+- Bootstrap
+- FlaskForm
+- Pyecharts
+- Pandas
+
+## Application Screenshots
+
+- Pie Chart
+
+<img width="950" height="450" src="screens/piechart.png" alt="hr">
+
+- Bar Chart
+
+<img width="950" height="450" src="screens/barchart.png" alt="hr">
+
+- Scatter Plot
+
+<img width="950" height="450" src="screens/scatterplot.png" alt="hr">
