@@ -18,12 +18,12 @@
 
 - Pie Chart
 
-<img width="950" height="450" src="screens/piechart.png" alt="hr">
+<img width="900" height="550" src="screens/piechart.png" alt="hr">
 
 - Bar Chart
 
-<img width="950" height="450" src="screens/barchart.png" alt="hr">
+<img width="900" height="550" src="screens/barchart.png" alt="hr">
 
 - Scatter Plot
 
-<img width="950" height="450" src="screens/scatterplot.png" alt="hr">
+<img width="900" height="550" src="screens/scatterplot.png" alt="hr">
